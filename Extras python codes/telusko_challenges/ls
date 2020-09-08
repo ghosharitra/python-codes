@@ -1,0 +1,24 @@
+pos = -1
+
+
+def ls(list, x):
+    c = -1
+    for i in list:
+        c += 1
+        if x == i:
+            globals()['pos'] = c
+            return True
+    return False
+
+
+list = []
+n = int(input("enter size of list: "))
+
+print("enter the list: ")
+for i in range(n):
+    list.append(int(input()))
+x = int(input("enter search element: "))
+if ls(list, x):
+    print(x, " found at position ", pos+1)
+else:
+    print(x, " not found")

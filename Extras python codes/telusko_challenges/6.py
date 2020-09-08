@@ -1,0 +1,13 @@
+nums=[25,36,95,14,12,26]
+print(nums)
+nums.remove(95)
+nums.remove(14)
+nums.remove(12)
+print(nums)
+nums.append(79)
+nums.insert(0,85)
+print(nums)
+nums.pop()
+print(nums)
+nums.pop(2)
+print(nums)

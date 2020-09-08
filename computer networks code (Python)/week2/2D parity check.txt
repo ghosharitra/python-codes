@@ -1,0 +1,65 @@
+"""
+7
+3
+1110110
+0010101
+1010100
+"""
+
+c = int(input("enter no. of bits in dataword: "))
+r = int(input("enter no. of datawords: "))
+
+m = []
+rp = []
+cp = []
+res = []
+
+print("enter datawords: ")
+for i in range(r):
+    x = list(map(int, list(input())[0:c]))
+    # print(x)
+    m.append(x)
+
+# print('total input matrix:')
+# for i in range(r):
+#    for j in range(c):
+#        print(m[i][j], " ", end="")
+#    print()
+
+for i in range(r):
+    s = 0
+    for j in range(c):
+        s = s + m[i][j]
+    rp.append(s % 2)
+
+for j in range(c):
+    s = 0
+    for i in range(r):
+        s = s + m[i][j]
+    cp.append(s % 2)
+
+# print('row parity:\n',rp)
+# print('column parity:\n',cp)
+
+s = 0
+for i in rp:
+    s = s + i
+x = s % 2
+s = 0
+for i in cp:
+    s = s + i
+y = s % 2
+#    print('last value:\n',x)
+
+
+for i in range(r):
+    res.append(m[i])
+    res[i].append(rp[i])
+res.append(cp)
+res[-1].append(x)
+
+print('checksum datawords:')
+for i in range(r + 1):
+    for j in range(c + 1):
+        print(res[i][j], end=" ")
+    print()

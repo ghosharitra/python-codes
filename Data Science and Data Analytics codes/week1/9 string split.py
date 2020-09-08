@@ -1,0 +1,5 @@
+s = input("enter a sentence: ")
+l1=s.split()
+print(l1)
+l2=s.split(sep=",")
+print(l2)
