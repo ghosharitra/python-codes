@@ -1,0 +1,94 @@
+Q.1 
+Positive
+pit
+spot
+spate
+slap two
+respite
+
+
+Negative
+pt
+Pot
+peat
+part
+
+
+
+ans:
+1. s?.*p.t.*
+2. [rs]?(es|a)?p.t.*
+3. [rs]?(es|la)?p.t(e|wo)?
+ 
+my ans:
+.*p.t.*
+
+
+
+
+
+
+
+
+
+
+2.
+Positive
+rap them
+tapeth
+apth
+wrap/try
+sap tray
+87ap9th
+apothecary
+
+
+Negative
+aleht
+tarpth
+Apt
+peth
+tarreth
+ddapdg
+apples
+
+
+
+ans:
+.*ap.*t.*
+my ans:
+.*ap.?t(h|r).*
+
+
+
+
+
+
+3.
+Positive 
+affgfking
+rafgkahe
+bafghk
+baffgkit
+affgfking
+rafgkahe
+bafghk
+baffg kit
+
+
+Negative
+fgok
+a fgk
+affgm
+afffhk
+fgok
+afg.K
+aff gm
+afffhgk
+
+
+
+ans:
+[bra]a?f?fg[fkh\s].*
+my ans:
+.*af+g.?k.*
