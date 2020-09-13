@@ -61,3 +61,5 @@ for _ in range(int(input())):
             max=i+d
     print( '%.10f'%((max-min)/(n-1)) )
     
+
+
