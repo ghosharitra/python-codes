@@ -1,0 +1,8 @@
+,tweets,user_name,location,geo,entities,sentiment
+0,"Access to human rights spaces like the  and  has taken a hit with #COVID__19 , but this is also an… ",OGR_EN,,,"[('COVID__19', 'MONEY')]","{'neg': 0.0, 'neu': 0.907, 'pos': 0.093, 'compound': 0.1901}"
+1, Ah - the downfall of covering via livestream during COVID! Thanks for update. Must be on hard copi… ,MeganatLFPress,"London, Ontario",,"[('COVID', 'ORG')]","{'neg': 0.071, 'neu': 0.766, 'pos': 0.163, 'compound': 0.4199}"
+2,It looks like  Council is discussing its three COVID recovery task force work plans today. Plans are… ,ian_mccor,Sherwood Park,,"[('Council', 'ORG'), ('three', 'CARDINAL'), ('COVID', 'ORG'), ('today', 'DATE')]","{'neg': 0.0, 'neu': 0.865, 'pos': 0.135, 'compound': 0.3612}"
+3,Governments are increasingly using digital technologies and big data analytics to address the Covid-19 pandemic. Th… ,OGR_EN,,,[],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+4,"This week’s Planning and Urban Development Committee is going to be a barnburner! Guidebook, North Hill, heritage,… ",DaleCalkins,Calgary - Treaty 7,,"[('This week', 'DATE'), ('Planning and Urban Development Committee', 'ORG'), ('North Hill', 'GPE')]","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+5,How can businesses help to reduce the unequal burden of #COVID19 on single mothers?  ,OGR_EN,,,[],"{'neg': 0.279, 'neu': 0.579, 'pos': 0.142, 'compound': -0.3818}"
+6,On the agenda for today’s Special Council Meeting is an overview of the City’s COVID-19 re-opening plan. To view th… ,cityofnanaimo,"Nanaimo, BC, Canada",,"[('today', 'DATE'), ('Special Council Meeting', 'ORG'), ('City', 'GPE')]","{'neg': 0.0, 'neu': 0.876, 'pos': 0.124, 'compound': 0.4019}"
