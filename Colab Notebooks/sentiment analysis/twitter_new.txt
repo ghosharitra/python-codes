@@ -1,0 +1,48 @@
+API key: H1Yu5BoIP445nEZYC3iiewEai
+
+API key secret: 2tjvMY8jd0x2Y39d8QLgDxuy6TYv0L2eNQql3GCHgbhe0i0Sft
+
+Bearer token: AAAAAAAAAAAAAAAAAAAAAGZEGAEAAAAArAqYPESJ8QmKWKJiRfsiDx1%2Fs1w%3DMAZFy0gQsrS69AM4J5ZPGWdI0noXDRMIQ1Km3ZqkGu3ViURYeM
+
+Access token: 1283456215322779649-LTLy0UbjopHVxga1ezTOEEVFmeHTra
+
+Access token secret: mdQMSq5wo0Dpx6O9qIwGu92usXEo6BgckTABy0CqdMtR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i am integrating out post composer tool with twitter to publish curated content from our website to our twitter user profile. Wer are going to deliver our content to our own Twitter account. Our website will only use for tweet on twitter.
+
+
+
+
+
+yes, I am planning to perform exploratory data analysis, like our content deliver to own Twitter account.
+
+
+
+
+
+yes, I may end up displaying data about twitter contents will be displayed online on our website by tool.
+
+
